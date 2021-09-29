@@ -1,5 +1,5 @@
 # Личный проект «Евротур»
-# Личный проект «Евротур»
+
 Разработка веб-интерфейса
 
 html5/css3/scss/gulp4/npm/webp/svg
@@ -7,9 +7,9 @@ html5/css3/scss/gulp4/npm/webp/svg
 adaptive:
   - mobile width - 320px;
   - tablet width - 768px;
-  - desktop width - 1100px
+  - desktop width - 1024px
 
-## Открыть [Demo](https://arturtkachenko93.github.io/mishka/)
+## Открыть [Demo](https://arturtkachenko93.github.io/Artur_euro-trip/)
 
 ## Установка локально
 Перед запуском необходимо установить следующие компоненты:
